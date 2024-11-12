@@ -4,7 +4,7 @@
 
    ```mkdir PIXIE.app```
 
-2. Acceder a la carpeta del proyecto :
+2. Acceder a la carpeta:
 
    ```cd PIXIE.app```
 
