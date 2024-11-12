@@ -11,3 +11,5 @@
 3. Inicializar repositorio :
 
    ```git init```
+- Herramienta de diseño:
+-  [Figma](https://www.figma.com/design/sm9mkMxDHL3XQN6boo32Tu/PIXIE-1.0?node-id=0-1&t=ZzZaygjJy3jvLcGN-1)
