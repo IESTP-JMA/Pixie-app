@@ -14,7 +14,7 @@
 - Herramienta de diseño:
 -  [Figma](https://www.figma.com/design/sm9mkMxDHL3XQN6boo32Tu/PIXIE-1.0?node-id=0-1&t=ZzZaygjJy3jvLcGN-1)
 -  [Modelo Entidad Relacion](https://dbdiagram.io/d/673406bae9daa85aca3db653)
--  Relaciones
+# Relaciones
 ### -Usuario - Funcionalidad: Un usuario puede tener acceso a múltiples funcionalidades, y cada funcionalidad puede ser utilizada por múltiples usuarios (Relación de muchos a muchos).
 ### -Administrador - Feedback: El administrador puede visualizar el feedback de los usuarios.
 ### -Usuario - Feedback: Un usuario puede dejar múltiples comentarios o calificaciones (Relación de uno a muchos).
